@@ -1,0 +1,14 @@
+public class TestNow {
+    public static void main(String[] args) {
+        int customerAge = 8;
+        if (customerAge >= 1 && customerAge <= 7){
+            System.out.println("Golovastik");
+        }
+        else if(customerAge >=8 && customerAge <= 13){
+            System.out.println("Young hamster");
+        }
+        else {
+            System.out.println("Not found");
+        }
+    }
+}
