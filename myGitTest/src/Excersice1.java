@@ -1,8 +1,8 @@
 public class Excersice1 {
     public static void main(String[] args) {
-        int random = (int)(Math.random() * 10);
-        int random1 = (int)(Math.random() * 10);
-        int random2 = (int)(Math.random() * 10);
+        int random = (int)(Math.random() * 6);
+        int random1 = (int)(Math.random() * 6);
+        int random2 = (int)(Math.random() * 6);
 
         int sumOfRandom = random + random1 + random2;
 
